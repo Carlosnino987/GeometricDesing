@@ -1,1 +1,55 @@
-# GeometricDesing
+<h1>AutoCAD Civil 3D and Infraworks</h1>
+
+
+<h2>Description</h2>
+Here you'll find a selection of projects I completed during my university studies and my professional experience. They showcase my skills in Revit and illustrate how BIM and Lean Construction methodologies can be applied to engineering projects.
+<br />
+
+
+<h2>Softwares Used</h2>
+
+- <b>Infraworks</b> 
+- <b>AutoCAD Civil 3D</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 11</b>
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Rendering your Revit projects: <br/>
+<img src="https://imgur.com/4w4FLJd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Exploded view of the assembly of a pilot die:  <br/>
+<img src="https://imgur.com/wfYP7ud.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Video of a Building: <br/>
+  <img src="https://github.com/Carlosnino987/Revit-Projects/blob/main/undefined-Imgur-ezgif.com-optimize.gif" width="80%" alt="Building Animation">
+<br />
+<br />
+Outputs from Revit:  <br/>
+<img src="https://imgur.com/KIiI9mV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Bocatoma:  <br/>
+<img src="https://imgur.com/29BIJTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Revit tools:  <br/>
+<img src="https://imgur.com/NUMN8We.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
