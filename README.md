@@ -27,7 +27,7 @@ Exploded view of the assembly of a pilot die:  <br/>
 <br />
 <br />
 Video of a Building: <br/>
-  <img src="https://github.com/Carlosnino987/Revit-Projects/blob/main/undefined-Imgur-ezgif.com-optimize.gif" width="80%" alt="Building Animation">
+  <img src="https://github.com/Carlosnino987/GeometricDesing/blob/main/VID-20231228-WA0017-ezgif.com-video-to-gif-converter.gif" width="80%" alt="Building Animation">
 <br />
 <br />
 Outputs from Revit:  <br/>
