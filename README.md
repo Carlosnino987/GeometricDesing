@@ -18,6 +18,11 @@ This repository showcases infrastructure engineering projects developed using Au
 <h2>Program walk-through:</h2>
 
 <p align="center">
+<br />
+Reinforcement Detailing for Beams and Columns in AutoCAD:  <br/>
+<img src="https://imgur.com/vKqaotl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Video of a Road Modeling: <br/>
   <img src="https://github.com/Carlosnino987/GeometricDesing/blob/main/VID-20231228-WA0017-ezgif.com-video-to-gif-converter.gif" width="80%" alt="Building Animation">
 <br />
