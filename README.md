@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Here you'll find a selection of projects I completed during my university studies and my professional experience. They showcase my skills in Revit and illustrate how BIM and Lean Construction methodologies can be applied to engineering projects.
+This repository showcases infrastructure engineering projects developed using Autodesk InfraWorks and Autodesk Civil 3D. The projects demonstrate workflows for road design, terrain modeling, corridor development, and infrastructure visualization, combining conceptual planning with detailed engineering design. The repository highlights the integration of BIM and civil engineering tools to create efficient, accurate, and data-driven infrastructure models. It includes examples of transportation projects, topographic modeling, alignments, profiles, corridors, and other essential components used throughout the design process.
 <br />
 
 
@@ -18,7 +18,7 @@ Here you'll find a selection of projects I completed during my university studie
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Video of a Building: <br/>
+Video of a Road Modeling: <br/>
   <img src="https://github.com/Carlosnino987/GeometricDesing/blob/main/VID-20231228-WA0017-ezgif.com-video-to-gif-converter.gif" width="80%" alt="Building Animation">
 <br />
 <br />
