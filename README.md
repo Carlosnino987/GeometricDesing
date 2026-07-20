@@ -18,28 +18,8 @@ Here you'll find a selection of projects I completed during my university studie
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Rendering your Revit projects: <br/>
-<img src="https://imgur.com/4w4FLJd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Exploded view of the assembly of a pilot die:  <br/>
-<img src="https://imgur.com/wfYP7ud.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Video of a Building: <br/>
   <img src="https://github.com/Carlosnino987/GeometricDesing/blob/main/VID-20231228-WA0017-ezgif.com-video-to-gif-converter.gif" width="80%" alt="Building Animation">
-<br />
-<br />
-Outputs from Revit:  <br/>
-<img src="https://imgur.com/KIiI9mV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Bocatoma:  <br/>
-<img src="https://imgur.com/29BIJTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Revit tools:  <br/>
-<img src="https://imgur.com/NUMN8We.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
